@@ -5,6 +5,7 @@
 1、UIImage+RenderMode.h
 
 ![](http://images2015.cnblogs.com/blog/784420/201601/784420-20160119202234718-1745633157.png)
+![](http://images2015.cnblogs.com/blog/784420/201601/784420-20160119202223828-445466015.png)
 
 2、UIColor+Hex.h
 
