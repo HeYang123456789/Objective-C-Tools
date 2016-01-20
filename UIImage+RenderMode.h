@@ -10,6 +10,7 @@
 
 @interface UIImage (RenderMode)
 
+/** 取消UIImage的渲染模式 */
 + (UIImage *)imageRenderingModeImageNamed:(NSString *)imageName;
 
 @end
